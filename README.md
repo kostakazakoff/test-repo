@@ -1,5 +1,5 @@
 # test-repo
-Team work exercise
+Team work exercise:
 
 Work into teams of (about) 5 students in class:
 
