@@ -6,7 +6,7 @@ hobby = input('What hobbies/pastimes do they enjoy?: ')
 why = input('Why did you pick SoftUni?: ')
 print('===============================================')
 
-info = 'I am ' + name + ' from ' + place + '. My hobby is ' + hobby + '. I picked SoftUni because ' + why + ' :)'
+info = 'I am ' + name + ' from ' + place + '. My hobby is ' + hobby + '. I picked SoftUni because ' + why
 print(info)
 
 ok = False
