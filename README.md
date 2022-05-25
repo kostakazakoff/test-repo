@@ -21,9 +21,9 @@ Team members add a few files:
 
 - Create a new file into your working directory:
 
-	· Name the new file "<your_name>.txt".
+	- Name the new file "<your_name>.txt".
 
-	· Put some text in it the file, e.g., "My name is …".
+	- Put some text in it the file, e.g., "My name is …".
 
 - Commit the new file to your local repository.
 
