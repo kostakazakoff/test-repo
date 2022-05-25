@@ -21,4 +21,3 @@ while not ok:
     except:
         print('===============================================================')
         print('Something is wrong! Try again to enter the file name and path: ')
-
