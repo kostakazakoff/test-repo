@@ -1,0 +1,91 @@
+1. GitHub Profile Link
+
+Create a new text document called "1. GitHub Link.txt", and put a link to your GitHub profile inside it. The file should look something like this:
+
+
+
+2. GitHub Repository Screenshot
+Take a screenshot of your GitHub repository using something like a snipping tool, then save the file as "2. GitHub Repo.jpg".
+
+
+
+3. Meet Some Colleagues
+
+First and foremost, look around your colleagues and try to make acquaintances with your fellow students. After you meet someone, note down the following information about them in a text document:
+
+· What is their name?
+
+· Where are they from?
+
+· What hobbies/pastimes do they enjoy?
+
+· Why did they pick SoftUni?
+
+Try to do this with at least 3 students and also exchange contact information with them.
+
+Hopefully, you made a couple of new friends from this exercise
+
+
+
+4. Upload Homework to SoftUni
+
+Put all of the text files and screenshots you created in a zip file and send it as homework on the SoftUni site
+
+
+
+5. Teamwork
+
+Work into teams of (about) 5 students in class:
+
+- Online students work alone or form their teams.
+
+- Each team selects a "team leader".
+
+- The team leader creates a repository in GitHub, e.g., "test-repo".
+
+- The team leader invites his team to the repo
+
+
+
+6. Add a File to GitHub
+
+Team members add a few files:
+
+- Clone the "test-repo" into your computer (if not cloned yet).
+
+- Create a new file into your working directory:
+
+	· Name the new file "<your_name>.txt".
+
+	· Put some text in it the file, e.g., "My name is …".
+
+- Commit the new file to your local repository.
+
+- Sync the changes to upload your file to the remote repo.
+
+- Browse the repo from https://github.com/user/repo to check whether your file has been successfully uploaded to GitHub.
+
+
+7. Create a Git Conflict & Merge
+
+- All team members create a common file, "config.txt".
+
+- Each team member adds some settings in "config.txt", e.g.:
+
+	- name = Peter
+
+	- size = 100
+
+	- email = peter@dir.bg
+
+- Each team member commits his local changes.
+
+- Each team member syncs his changes.
+
+- The first member will succeed without conflicts.
+
+- The others will have a conflict to be merged.
+
+- Resolve the conflict:
+
+	- Edit the merged changes + commit and sync again
