@@ -14,10 +14,11 @@ while not ok:
     path_to_save = input('Where you want to save your txt file? (a/path/you/want/to/save/to): ')
     file_name = input('Enter your file name (your_name): ') + '.txt'
     try:
-        f = open(os.path.join(path_to_save, file_name), "w")
-        f.write(info)
-        f.close()
-        ok = True
+        with open(os.path.join(path_to_save, file_name), "w") as f:
+            f.write(info)
+            f.close()
+            ok = True
+            print(f'Your file is saved as {path_to_save}\\{file_name}')
     except:
         print('===============================================================')
         print('Something is wrong! Try again to enter the file name and path: ')
