@@ -1,3 +1,6 @@
 name = Kosta
 language = Python
 email = kostakazakoff@gmail.com
+name = Atanas
+language = Python
+email = atanas.dragulev@gmail.com
